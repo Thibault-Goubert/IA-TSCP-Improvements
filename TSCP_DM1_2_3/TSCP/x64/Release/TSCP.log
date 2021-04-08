@@ -1,0 +1,9 @@
+﻿J:\Visua Studio 2019 Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Le répertoire intermédiaire (x64\Release\) contient des fichiers partagés provenant d'un autre projet (TSCP.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  main.c
+F:\Cours\IA\Modifiables\TSCP_DM3_DM1&2\main.c(29,54): warning C4244: 'return' : conversion de 'time_t' en 'int', perte possible de données
+  Génération de code en cours
+  2 of 62 functions ( 3.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  TSCP.vcxproj -> F:\Cours\IA\Modifiables\TSCP_DM3_DM1&2\x64\Release\TSCP_Opti12_Hash.exe

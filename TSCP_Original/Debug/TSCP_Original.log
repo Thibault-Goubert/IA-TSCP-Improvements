@@ -1,0 +1,20 @@
+﻿  board.c
+  book.c
+F:\Cours\IA\TSCP_ORIGINAL_V54\TSCP_Original\book.c(28,18): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+F:\Cours\IA\TSCP_ORIGINAL_V54\TSCP_Original\book.c(29,14): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Cours\IA\TSCP_ORIGINAL_V54\TSCP_Original\book.c(65,8): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  data.c
+  eval.c
+  main.c
+F:\Cours\IA\TSCP_ORIGINAL_V54\TSCP_Original\main.c(29,54): warning C4244: 'return' : conversion de 'time_t' en 'int', perte possible de données
+F:\Cours\IA\TSCP_ORIGINAL_V54\TSCP_Original\main.c(77,7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Cours\IA\TSCP_ORIGINAL_V54\TSCP_Original\main.c(88,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Cours\IA\TSCP_ORIGINAL_V54\TSCP_Original\main.c(94,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Cours\IA\TSCP_ORIGINAL_V54\TSCP_Original\main.c(230,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Cours\IA\TSCP_ORIGINAL_V54\TSCP_Original\main.c(238,3): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Cours\IA\TSCP_ORIGINAL_V54\TSCP_Original\main.c(308,3): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Cours\IA\TSCP_ORIGINAL_V54\TSCP_Original\main.c(338,4): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Cours\IA\TSCP_ORIGINAL_V54\TSCP_Original\main.c(344,4): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Cours\IA\TSCP_ORIGINAL_V54\TSCP_Original\main.c(349,4): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  search.c
+  Génération de code en cours...

@@ -1,0 +1,8 @@
+﻿  main.c
+F:\Cours\IA\TSCP_ORIGINAL_V54\TSCP_Original\main.c(29,54): warning C4244: 'return' : conversion de 'time_t' en 'int', perte possible de données
+  Génération de code en cours
+  1 of 51 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  TSCP_Original.vcxproj -> F:\Cours\IA\TSCP_ORIGINAL_V54\TSCP_Original\x64\Release\TSCP_Original.exe
